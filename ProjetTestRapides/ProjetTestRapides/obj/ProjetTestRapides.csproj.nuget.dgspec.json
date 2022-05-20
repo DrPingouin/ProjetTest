@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "T:\\Developpement\\Dylan\\ProjetTestRapides\\ProjetTestRapides\\ProjetTestRapides.csproj": {}
+    "C:\\Test2\\testGIT\\ProjetTestRapides\\ProjetTestRapides\\ProjetTestRapides.csproj": {}
   },
   "projects": {
-    "T:\\Developpement\\Dylan\\ProjetTestRapides\\ProjetTestRapides\\ProjetTestRapides.csproj": {
+    "C:\\Test2\\testGIT\\ProjetTestRapides\\ProjetTestRapides\\ProjetTestRapides.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Developpement\\Dylan\\ProjetTestRapides\\ProjetTestRapides\\ProjetTestRapides.csproj",
+        "projectUniqueName": "C:\\Test2\\testGIT\\ProjetTestRapides\\ProjetTestRapides\\ProjetTestRapides.csproj",
         "projectName": "ProjetTestRapides",
-        "projectPath": "T:\\Developpement\\Dylan\\ProjetTestRapides\\ProjetTestRapides\\ProjetTestRapides.csproj",
+        "projectPath": "C:\\Test2\\testGIT\\ProjetTestRapides\\ProjetTestRapides\\ProjetTestRapides.csproj",
         "packagesPath": "C:\\Users\\d.blanchard\\.nuget\\packages\\",
-        "outputPath": "T:\\Developpement\\Dylan\\ProjetTestRapides\\ProjetTestRapides\\obj\\",
+        "outputPath": "C:\\Test2\\testGIT\\ProjetTestRapides\\ProjetTestRapides\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\d.blanchard\\AppData\\Roaming\\NuGet\\NuGet.Config",
