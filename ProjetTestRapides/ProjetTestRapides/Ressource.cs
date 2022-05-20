@@ -4,7 +4,11 @@ using System.Text;
 
 namespace ProjetTestRapides
 {
-    public abstract class Item
+    class Ressource : Item
     {
+        public Ressource(string name)
+        {
+            Name = name;   
+        }
     }
 }
