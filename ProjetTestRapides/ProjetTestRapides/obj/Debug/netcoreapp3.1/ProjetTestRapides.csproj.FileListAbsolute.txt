@@ -1,0 +1,13 @@
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\bin\Debug\netcoreapp3.1\ProjetTestRapides.exe
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\bin\Debug\netcoreapp3.1\ProjetTestRapides.deps.json
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\bin\Debug\netcoreapp3.1\ProjetTestRapides.runtimeconfig.json
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\bin\Debug\netcoreapp3.1\ProjetTestRapides.runtimeconfig.dev.json
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\bin\Debug\netcoreapp3.1\ProjetTestRapides.dll
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\bin\Debug\netcoreapp3.1\ProjetTestRapides.pdb
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\obj\Debug\netcoreapp3.1\ProjetTestRapides.csprojAssemblyReference.cache
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\obj\Debug\netcoreapp3.1\ProjetTestRapides.AssemblyInfoInputs.cache
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\obj\Debug\netcoreapp3.1\ProjetTestRapides.AssemblyInfo.cs
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\obj\Debug\netcoreapp3.1\ProjetTestRapides.csproj.CoreCompileInputs.cache
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\obj\Debug\netcoreapp3.1\ProjetTestRapides.dll
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\obj\Debug\netcoreapp3.1\ProjetTestRapides.pdb
+T:\Developpement\Dylan\ProjetTestRapides\ProjetTestRapides\obj\Debug\netcoreapp3.1\ProjetTestRapides.genruntimeconfig.cache
