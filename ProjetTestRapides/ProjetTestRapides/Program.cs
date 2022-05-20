@@ -7,7 +7,7 @@ namespace ProjetTestRapides
     {
         static void Main(string[] args)
         {
-            {//modif
+            {
                 using (StreamWriter sw = new StreamWriter(@"T:\Préparation de données\OLI - ORANGE - Liberia\Nouvelles Commandes\Test.csv"))
                 {
                     long k = 1;
